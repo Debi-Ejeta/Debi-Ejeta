@@ -2,7 +2,7 @@
 
 ### Hi, I'm a senior at Columbia University, majoring in Computer Science and Economics. I was a software engineering intern at Nextdoor on the Ads Team, working on creating various features by using React and the spring framework. 
 
-<p align="left"> <a href="https://www.linkedin.com/in/debi-ejeta-4294b0222/" target="blank"><img src="https://static.cdn.wisestamp.com/wp-content/uploads/2020/06/connect-with-me-linkedin-button.png" alt="debi_ejeta" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/debi-ejeta-4294b0222/" target="blank"><img src="https://static.cdn.wisestamp.com/wp-content/uploads/2020/06/connect-with-me-linkedin-button.png" alt="debi_ejeta" width="50" height="50" /></a> </p>
 
 - 😄 Pronouns: he/him
 
